@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: Any is fine but he/him
 - ⚡ Fun fact: I'm good at minesweeper
-- <a href='https://cambloxs99.itch.io'>My Itch.io page <3</a>
+- <a href='https://cambloxs99.itch.io'>My itch.io page <3</a>
