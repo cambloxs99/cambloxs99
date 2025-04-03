@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Twine Harlowe
 - 📫 How to reach me: ...
-- 😄 Pronouns: Any is fine but he/him
+- 😄 Pronouns: he/him but any is fine
 - ⚡ Fun fact: I'm good at minesweeper
 - <a href='https://cambloxs99.itch.io'>My itch.io page <3</a>
