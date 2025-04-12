@@ -1,9 +1,8 @@
 ## Hi there!
 
 - 🔭 I’m currently working on HTML Interactive Fiction games and resources for others to use in theirs.
-- 🌱 I’m currently learning Python for school, CSS, HTML, and JAVASCRIPT.
+- 🌱 I’m currently learning Python for school, CSS, HTML, and a little bit of Javascript.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Twine Harlowe!!
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him but any is fine.
